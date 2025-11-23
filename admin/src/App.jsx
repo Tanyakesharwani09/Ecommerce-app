@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import Navbar from './components/Navbar.jsx'
-import Sidebar from './components/sidebar.jsx'
+import Sidebar from './components/Sidebar.jsx'
 import { Routes, Route } from 'react-router'
 import Orders from './pages/Orders.jsx'
 import List from './pages/List.jsx'
